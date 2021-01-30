@@ -1,0 +1,19 @@
+{
+  "name": "create-blockotus-organism",
+  "version": "0.0.1",
+  "description": "Set up a Blockotus Organism by running one command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLOCKOTUS/create-blockotus-organism.git"
+  },
+  "author": "Daniel Febrero",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BLOCKOTUS/create-blockotus-organism/issues"
+  },
+  "homepage": "https://github.com/BLOCKOTUS/create-blockotus-organism#readme"
+}
